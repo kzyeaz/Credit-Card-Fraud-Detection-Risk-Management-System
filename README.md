@@ -48,6 +48,7 @@ This system provides comprehensive fraud detection and financial risk management
 3. **Download and setup data**
    ```bash
    python scripts/download_data.py
+   https://drive.google.com/drive/folders/1Qv-3M5mXpeKMPmqscDyAhAvcoO7C13qm?usp=drive_link
    ```
 
 4. **Run the complete pipeline**
